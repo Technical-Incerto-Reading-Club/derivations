@@ -11,8 +11,8 @@ We plan to add derivations as markdown files with LaTeX. These will be grouped b
 Contributions can be made via the [issues page](https://github.com/Technical-Incerto-Reading-Club/derivations/issues)
 
 You can, for example:
-* Help others with [derivations](https://github.com/Technical-Incerto-Reading-Club/derivations/issues)
-* Ask for help with your derivations
-* Add derivation examples 
+* Help others
+* Ask for help
+* Add examples 
     * To add a derivation please start with an issue. 
     * This issue can be linked to a pull request with your workings.
